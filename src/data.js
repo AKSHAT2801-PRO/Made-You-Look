@@ -62,8 +62,8 @@ export const services = serviceGroups.flatMap((group) => group.items)
 
 // Gallery photos live in /public/gallery.
 export const gallery = [
-  { name: 'Red and rhinestone', image: '/gallery/nailimg1.jpeg' },
-  { name: 'Pastel rainbow', image: '/gallery/nailimg2.jpeg' },
-  { name: 'Pink floral', image: '/gallery/nailimg3.jpeg' },
-  { name: 'Colour-pop', image: '/gallery/Hero1.jpeg' },
+  { name: 'Red and rhinestone', image: '/gallery/nailimg1.webp' },
+  { name: 'Pastel rainbow', image: '/gallery/nailimg2.webp' },
+  { name: 'Pink floral', image: '/gallery/nailimg3.webp' },
+  { name: 'Colour-pop', image: '/gallery/Hero1.webp' },
 ]

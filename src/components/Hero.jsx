@@ -1,7 +1,7 @@
 import Sparkle from './Sparkle.jsx'
 import { siteConfig, whatsappLink } from '../config.js'
-import heroOne from '../../Hero1.jpeg'
-import heroTwo from '../../Hero2.jpeg'
+import heroOne from '../../public/gallery/Hero1.webp'
+import heroTwo from '../../public/gallery/Hero2.webp'
 
 export default function Hero() {
   return (

@@ -8,7 +8,7 @@ export default function About() {
         <div className="about__art">
           <img
             className="about__photo"
-            src="/samiksha.jpeg"
+            src="/samiksha.webp"
             alt="Samiksha, the artist behind Made You Look"
             loading="lazy"
           />

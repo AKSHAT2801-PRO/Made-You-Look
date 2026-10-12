@@ -20,7 +20,7 @@ export default function Footer() {
             <span className="footer__qr-title">Instagram</span>
             <img
               className="footer__qr"
-              src="/instagram-qr.jpeg"
+              src="/instagram-qr.webp"
               alt="Scan to visit Made You Look by Samiksha on Instagram"
             />
             <span className="footer__qr-hint">Scan to follow</span>
